@@ -1,6 +1,6 @@
 # Chess.js [[try]](https://aslushnikov.github.io/chess/)
 
-![chess.js](/screenshot-1.png?raw=true "Chess.js")
+![chess.js](/screenshot.png?raw=true "Chess.js")
 
 In 2011 I was suggested to write a chess game with AI.
 
