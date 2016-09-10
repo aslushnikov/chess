@@ -11,7 +11,7 @@ I didn't know much of js, but managed to fit in the deadlines and got the reward
 Today, the money are long gone, but I'm still proud of the AI which won over
 a lot of my friends. \m/
 
-### AI power
+### AI
 
 To make a move, AI traverses the tree of all possible moves. The deeper traversal goes,
 the more powerful AI is, and the more time it takes to make a move.
