@@ -10,7 +10,3 @@ I managed to fit in the deadlines and got the reward.
 
 Today, the money are long gone, but I'm still very proud that the AI won over
 a lot of my friends. You can try it yourself [here](https://aslushnikov.github.io/chess/).
-
-Note that the AI is a little slow. The yellow bulb in the top-right corner
-means it's thinking. As far as I remember, the game engine implements
-all of the chess rules.
