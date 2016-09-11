@@ -2,14 +2,8 @@
 
 ![chess.js](/screenshot.png?raw=true "Chess.js")
 
-In 2011 I was suggested to write a web version of chess with AI, from scratch and in two days.
-The AI had to be strong enough to overcome an average player. 
-In case of success, a reward of $1000 was promised.
-
-I didn't know much of js, but managed to fit in the deadlines and got the reward.
-
-Today, the money are long gone, but I'm still proud of the AI which won over
-a lot of my friends. \m/
+This project is written in two days back in 2011.
+The AI won over a lot of my friends \m/
 
 ### AI
 
@@ -24,4 +18,4 @@ To increase AI power, open DevTools console and run the following snippet:
 AI.oa = 4
 ```
 
-This is not very convenient, but I didn't make the complexity switch back in the days. Today, I'd like to keep this code untouched as a memory :)
+This is not very convenient, but I didn't make the complexity switch back in the days. Today, I'd like to keep this code untouched as a memory.
